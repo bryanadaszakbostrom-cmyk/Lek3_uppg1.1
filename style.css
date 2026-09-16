@@ -1,0 +1,22 @@
+/*
+Namn: Dr. Breen
+Klass: Te25C
+*/
+h1{
+    text-align: right;
+    background-color: aquamarine;
+    color: yellow;
+}
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+    display: flex;
+    flex-direction: column;
+}
+ul{
+    color: green;
+    background-color: orange;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
